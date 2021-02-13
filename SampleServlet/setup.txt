@@ -1,0 +1,14 @@
+Requirements
+	java 8 
+	apache-tomcat-7.0 (any subversion)
+
+steps to run the servlet program
+	
+	create a war 
+	place it inside the webapps folder present inside the tomcat server
+	then start the tomcat server
+	
+	try this api in browser
+		http://localhost:8080/SampleServlet/test
+		http://localhost:8080/SampleServlet/getdata
+
