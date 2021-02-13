@@ -19,7 +19,7 @@
 	</servlet-mapping>
 	<servlet-mapping>
 		<servlet-name>TestServlet2</servlet-name>
-		<url-pattern>/getdata</url-pattern>
+		<url-pattern>/HelloServlet</url-pattern>
 	</servlet-mapping>
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
