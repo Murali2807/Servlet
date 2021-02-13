@@ -8,7 +8,7 @@ steps to run the servlet program
 	place it inside the webapps folder present inside the tomcat server
 	then start the tomcat server
 	
-	try this api in browser
-		http://localhost:8080/SampleServlet/test
-		http://localhost:8080/SampleServlet/getdata
+	try this jsp page in browser
+		
+		http://localhost:8080/SampleServlet/HelloServlet
 
